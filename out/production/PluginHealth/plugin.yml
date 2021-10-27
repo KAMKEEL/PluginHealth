@@ -1,0 +1,11 @@
+name: PluginHealth
+main: com.KAMKEEL.PluginHealth.main
+version: 1.0
+author: KAMKEEL
+commands:
+    maxhealth:
+        description: reload config
+
+permissions:
+    maxhealth.reload:
+        description: reload config

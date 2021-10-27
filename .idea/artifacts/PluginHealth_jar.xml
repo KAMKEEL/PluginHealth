@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PluginHealth:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PluginHealth_jar</output-path>
+    <root id="archive" name="PluginHealth.jar">
+      <element id="module-output" name="PluginHealth" />
+      <element id="library" level="project" name="Spigot-Api" />
+    </root>
+  </artifact>
+</component>
